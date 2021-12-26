@@ -1,5 +1,5 @@
 TgCrypto
-git+https://github.com/BrayDanXD/pyrogram.git@session
+git+https://github.com/subinps/pyrogram.git@session
 py-tgcalls==0.8.1
 yt-dlp==2021.11.10.1
 requests
