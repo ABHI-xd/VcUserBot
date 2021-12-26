@@ -3,7 +3,7 @@ FROM python:3.9
 RUN apt update && apt upgrade -y
 RUN apt install python3-pip -y
 RUN apt install ffmpeg -y
-RUN pip install pyrogram
+RUN pip install Pyrogram
 RUN curl -sL https://deb.nodesource.com/setup_16.x | bash -
 RUN apt-get install -y nodejs
 RUN npm i -g npm
